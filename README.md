@@ -5,6 +5,6 @@
 ### 使用
 
 `
-npm i hulk -g
+npm i hulk -g <br />
 hulk create <projectName>
 `
