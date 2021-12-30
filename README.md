@@ -1,12 +1,12 @@
-# hulk-cli
+# csc-cli
 
 ### 练手cli项目
 
 ### 使用
 
 ```
-npm i hulk -g
+npm i csc -g
 ````
 ````
-hulk create <projectName>
+csc create <projectName>
 ````

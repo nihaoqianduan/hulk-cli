@@ -1,10 +1,10 @@
 {
-  "name": "hulk-cli",
+  "name": "csc-cli",
   "version": "1.0.0",
-  "description": "hulk-cli",
+  "description": "基于webpack4和vue2.x的前端脚手架工具，用于快速初始化项目",
   "main": "index.js",
   "bin": {
-    "hulk": "./bin/cli.js"
+    "csc": "./bin/cli.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,8 +14,8 @@
     "email": "18637471762@163.com"
   },
   "keywords": [
-    "hulk-cli",
-    "hulk"
+    "csc-cli",
+    "csc"
   ],
   "license": "MIT",
   "dependencies": {
