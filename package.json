@@ -1,6 +1,6 @@
 {
   "name": "ncp-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "基于webpack4和vue2.x的前端脚手架工具，用于快速初始化项目",
   "main": "index.js",
   "bin": {
