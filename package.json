@@ -1,10 +1,10 @@
 {
-  "name": "csc-cli",
+  "name": "ncp-cli",
   "version": "1.0.0",
   "description": "基于webpack4和vue2.x的前端脚手架工具，用于快速初始化项目",
   "main": "index.js",
   "bin": {
-    "csc": "./bin/cli.js"
+    "ncp": "./bin/cli.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,8 +14,8 @@
     "email": "18637471762@163.com"
   },
   "keywords": [
-    "csc-cli",
-    "csc"
+    "ncp-cli",
+    "ncp"
   ],
   "license": "MIT",
   "dependencies": {
